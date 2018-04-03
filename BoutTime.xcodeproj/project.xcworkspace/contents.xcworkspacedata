@@ -2,6 +2,19 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BoutTime.xcodeproj">
+      location = "group:/Users/druzhynin/Documents/Swift/Code/BoutTime/BoutTime/BoutTime/CharactersList.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/druzhynin/Documents/Swift/Code/BoutTime/BoutTime/BoutTime/delete.swift">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "New Group">
+   </Group>
+   <FileRef
+      location = "group:../../BoutTimeAssetsAndMockups/BoutTimeAssets/splash_screen.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

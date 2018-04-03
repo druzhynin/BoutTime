@@ -1,0 +1,72 @@
+//
+//  charactersList.swift
+//  
+//
+//  Created by Kirill Druzhynin on 02.04.2018.
+//
+
+import Foundation
+import UIKit
+
+let characterList: [Int: String] = [
+    1936: "Ka-Zar",
+    1939: "Namor",
+    1940: "Vision",
+    1941: "Captain America",
+    1943: "Miss America",
+    1944: "Patsy Walker",
+    1946: "Blonde Phantom",
+    1947: "Namora",
+    1949: "Phantom Rider",
+    1960: "Groot",
+    1961: "Dr. Druid",
+    1962: "Spider-Man",
+    1963: "Doctor Strange",
+    1964: "Black Widow",
+    1965: "Hercules",
+    1966: "Black Panther",
+    1967: "Banshee",
+    1968: "Polaris",
+    1969: "Falcon",
+    1970: "Valkyrie",
+    1971: "Man-Thing",
+    1972: "Shanna the She-Devil",
+    1973: "Drax the Destroyer",
+    1974: "Wolverine",
+    1975: "Gamora",
+    1976: "Rocket Raccoon",
+    1977: "3-D Man",
+    1978: "Devil Dinosaur and Moon-Boy",
+    1979: "Ant-Man",
+    1980: "She-Hulk",
+    1981: "Elektra",
+    1982: "Spectrum",
+    1983: "Beta Ray Bill",
+    1984: "Venom",
+    1985: "Silver Sable",
+    1987: "Excalibur",
+    1988: "Speedball",
+    1989: "Jubilee",
+    1990: "Gambit",
+    1991: "Deadpool",
+    1992: "Domino",
+    1994: "Scarlet Spider",
+    1995: "X-Man",
+    1997: "The Thunderbolts",
+    1998: "Winter Guard",
+    1999: "Echo",
+    2000: "Sentry",
+    2001: "Doop and X-Statix",
+    2002: "Fantomex",
+    2003: "Phyla-Vell",
+    2004: "Daisy Johnson",
+    2005: "Gravity",
+    2007: "Victoria Hand",
+    2008: "Skaar",
+    2010: "Avengers Academy",
+    2011: "White Tiger",
+    2012: "Alpha",
+    2013: "Ms. Marvel",
+    2014: "Silk",
+    2016: "Ironheart"
+]
